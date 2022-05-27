@@ -5,7 +5,7 @@
 <p align="center">Desafio: Criando um hook de carrinho de compras</p>
 
 <p align="center">
-		<img alt="License" src="https://github.com/Luccasoncini/Desafio-Componentizando-a-aplica-o/blob/main/src/desafio2ignite.jpg">
+		<img alt="License" src="https://github.com/Luccasoncini/Desafio-Hook-carrinho-de-compras/blob/master/src/assets/images/rocketshoes.png">
 </p>
 
 ## 🚀 Projeto
